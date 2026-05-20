@@ -1,0 +1,28 @@
+# Phishing Email Analysis Report
+
+## Email Summary
+
+This email attempts to trick the recipient into clicking a malicious link by creating urgency and fear.
+
+## Red Flags Identified
+
+### 1. Urgency and Threats
+
+The email pressures the user with "24 hours" and "permanent suspension" to force quick action.
+
+### 2. Suspicious Link
+
+The link provided does not match a legitimate company domain and appears deceptive:
+`http://secure-login-verify-account.com`
+
+### 3. Generic Greeting
+
+The email uses "Dear User" instead of a personalized name.
+
+### 4. Emotional Manipulation
+
+The message uses fear-based language to manipulate the recipient.
+
+## Conclusion
+
+This is a classic phishing attempt designed to steal user credentials. Users should never click unknown links and should verify emails through official channels.
